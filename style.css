@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+button {
+    margin: 10px;
+    width: 100px;
+    height: 40px;
+    background-color: rgba(0, 255, 0, 0.3);
+    border: 0px;
+    box-shadow: 0px 0px 36px 0px #0000001C;
+
+}
+ #no {
+    background-color: rgba(255, 0, 0, 0.3);
+ }
+
+
+.avoid {
+    transform: translate();
+}
+
+section {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
